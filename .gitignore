@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.env
+.env.*
+venv/
+hctax_*.pdf
