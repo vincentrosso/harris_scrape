@@ -1,0 +1,198 @@
+{
+  "account": "0552850000031",
+  "statement_year": "2024",
+  "url": "https://www.hctax.net/Property/TaxStatement?account=NBQei/VcY5PpYnge+KdF/1wmIm7RP7sC0GBPlmS6lpY=",
+  "tables": [
+    {
+      "title": "Account is Paid",
+      "rows": [
+        [
+          "Account Number",
+          "Current As Of:",
+          "Assessed Owner"
+        ],
+        [
+          "055-285-000-0031",
+          "October 30, 2025",
+          "KRIEG CHRISTOPHER L & DAWN\n3713 LOCKE LN\nHOUSTON TX 77027-4005"
+        ]
+      ]
+    },
+    {
+      "title": "Account Number\tCurrent As Of:\tAssessed Owner\n055-285-000-0031\tOctober 30, 2025\tKRIEG CHRISTOPHER L & DAWN\n3713 LOCKE LN\nHOUSTON TX 77027-4005",
+      "fields": {
+        "Land - Market Value": "600,000",
+        "Impr - Market Value": "518,551",
+        "Total Market Value": "1,118,551",
+        "Less Capped Mkt Value": "55,025",
+        "Appraised Value": "1,063,526"
+      },
+      "rows": [
+        [
+          "Property Description",
+          "Appraised Values",
+          "Notes/Exemptions"
+        ],
+        [
+          "4208 ALBANS RD 77005\nLT 17 BLK 10\nCOLLEGE COURT PL\n.1148 AC",
+          "Land - Market Value:\t600,000\nImpr - Market Value:\t518,551\nTotal Market Value:\t1,118,551\nLess Capped Mkt Value:\t55,025\nAppraised Value:\t1,063,526",
+          "Land - Market Value:",
+          "600,000",
+          "Impr - Market Value:",
+          "518,551",
+          "Total Market Value:",
+          "1,118,551",
+          "Less Capped Mkt Value:",
+          "55,025",
+          "Appraised Value:",
+          "1,063,526",
+          "Homestead"
+        ]
+      ]
+    },
+    {
+      "fields": {
+        "Land - Market Value": "600,000",
+        "Impr - Market Value": "518,551",
+        "Total Market Value": "1,118,551",
+        "Less Capped Mkt Value": "55,025",
+        "Appraised Value": "1,063,526"
+      }
+    },
+    {
+      "title": "Account Number\tCurrent As Of:\tAssessed Owner\n055-285-000-0031\tOctober 30, 2025\tKRIEG CHRISTOPHER L & DAWN\n3713 LOCKE LN\nHOUSTON TX 77027-4005",
+      "headers": [
+        "Taxing Jurisdiction",
+        "Exemption",
+        "Taxable Value",
+        "Tax Rate",
+        "Taxes"
+      ],
+      "records": [
+        {
+          "Taxing Jurisdiction": "Houston ISD",
+          "Exemption": "312,705",
+          "Taxable Value": "750,821",
+          "Tax Rate": "0.868300",
+          "Taxes": "$6,519.38"
+        },
+        {
+          "Taxing Jurisdiction": "Harris County",
+          "Exemption": "212,705",
+          "Taxable Value": "850,821",
+          "Tax Rate": "0.385290",
+          "Taxes": "$3,278.13"
+        },
+        {
+          "Taxing Jurisdiction": "Harris County Flood Control Dist",
+          "Exemption": "212,705",
+          "Taxable Value": "850,821",
+          "Tax Rate": "0.048970",
+          "Taxes": "$416.65"
+        },
+        {
+          "Taxing Jurisdiction": "Port of Houston Authority",
+          "Exemption": "212,705",
+          "Taxable Value": "850,821",
+          "Tax Rate": "0.006150",
+          "Taxes": "$52.33"
+        },
+        {
+          "Taxing Jurisdiction": "Harris County Hospital District",
+          "Exemption": "212,705",
+          "Taxable Value": "850,821",
+          "Tax Rate": "0.163480",
+          "Taxes": "$1,390.92"
+        },
+        {
+          "Taxing Jurisdiction": "Harris County Dept. of Education",
+          "Exemption": "212,705",
+          "Taxable Value": "850,821",
+          "Tax Rate": "0.004799",
+          "Taxes": "$40.83"
+        },
+        {
+          "Taxing Jurisdiction": "Houston City College",
+          "Exemption": "180,799",
+          "Taxable Value": "882,727",
+          "Tax Rate": "0.096183",
+          "Taxes": "$849.03"
+        },
+        {
+          "Taxing Jurisdiction": "City of W University Place",
+          "Exemption": "0",
+          "Taxable Value": "1,063,526",
+          "Tax Rate": "0.241930",
+          "Taxes": "$2,572.99"
+        }
+      ]
+    },
+    {
+      "title": "Account Number\tCurrent As Of:\tAssessed Owner\n055-285-000-0031\tOctober 30, 2025\tKRIEG CHRISTOPHER L & DAWN\n3713 LOCKE LN\nHOUSTON TX 77027-4005",
+      "fields": {
+        "Total 2024 Taxes Due by January 31, 2025": "$15,120.26",
+        "Payments applied to 2024 taxes": "$15,120.26",
+        "Total Current Taxes Due": "$0.00",
+        "Prior year(s) taxes due (if any)": "-\n$0.00",
+        "Total Amount Due For July 2025": "$0.00"
+      }
+    },
+    {
+      "title": "Account Number\tCurrent As Of:\tAssessed Owner\n055-285-000-0031\tOctober 30, 2025\tKRIEG CHRISTOPHER L & DAWN\n3713 LOCKE LN\nHOUSTON TX 77027-4005",
+      "headers": [
+        "Penalties for Late Payments",
+        "Rate",
+        "Current",
+        "Delinquent",
+        "Total"
+      ],
+      "records": [
+        {
+          "Penalties for Late Payments": "By February 28, 2025",
+          "Rate": "7%",
+          "Current": "$0.00",
+          "Delinquent": "$0.00",
+          "Total": "$0.00"
+        },
+        {
+          "Penalties for Late Payments": "By March 31, 2025",
+          "Rate": "9%",
+          "Current": "$0.00",
+          "Delinquent": "$0.00",
+          "Total": "$0.00"
+        },
+        {
+          "Penalties for Late Payments": "By April 30, 2025",
+          "Rate": "11%",
+          "Current": "$0.00",
+          "Delinquent": "$0.00",
+          "Total": "$0.00"
+        },
+        {
+          "Penalties for Late Payments": "By May 31, 2025",
+          "Rate": "13%",
+          "Current": "$0.00",
+          "Delinquent": "$0.00",
+          "Total": "$0.00"
+        },
+        {
+          "Penalties for Late Payments": "By June 30, 2025",
+          "Rate": "15%",
+          "Current": "$0.00",
+          "Delinquent": "$0.00",
+          "Total": "$0.00"
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    "Totals due may contain an additional section 33.07 collection penalty of 20%",
+    "IF YOU ARE 65 YEARS OF AGE OR OLDER OR ARE DISABLED AND THE PROPERTY DESCRIBED IN THIS DOCUMENT IS YOUR RESIDENCE HOMESTEAD, YOU SHOULD CONTACT THE APPRAISAL DISTRICT REGARDING ANY ENTITLEMENT YOU MAY HAVE TO A POSTPONEMENT IN THE PAYMENT OF THESE TAXES."
+  ],
+  "pdf": {
+    "path": "hctax_statement_0552850000031_2024.pdf",
+    "status": "ok",
+    "bytes": 38732,
+    "source": "popup_request"
+  }
+}

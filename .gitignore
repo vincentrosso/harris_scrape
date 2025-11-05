@@ -7,3 +7,4 @@ __pycache__/
 .env.*
 venv/
 hctax_*.pdf
+hctax_statement_*.pdf
