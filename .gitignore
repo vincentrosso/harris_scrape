@@ -8,3 +8,5 @@ __pycache__/
 venv/
 hctax_*.pdf
 hctax_statement_*.pdf
+harris_trueprodigy_*.json
+hctax_statement_*.json
